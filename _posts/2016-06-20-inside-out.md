@@ -7,8 +7,8 @@ keywords: []
 description: >-
   So I finally finished my degree and have some free time. I'm putting this to
   work by paper cutting again. This one is based on the movie Inside Out. 
-datePublished: '2016-06-20T13:14:08.183Z'
-dateModified: '2016-06-20T13:13:50.866Z'
+datePublished: '2016-06-20T13:32:22.816Z'
+dateModified: '2016-06-20T13:31:28.171Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-inside-out.md
