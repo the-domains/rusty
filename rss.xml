@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[rusty ]]></title>
-        <description><![CDATA[rusty ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Rusty ]]></title>
+        <description><![CDATA[Rusty ]]></description>
+        <link>https://thegrid.ai/rusty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 11:09:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 11:22:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rusty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside Out]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a969f5f-58cb-4fba-a937-9b40799b50c9.jpg">]]></description>
-            <link>undefinedinside-out/index.html</link>
+            <link>https://thegrid.ai/rusty/inside-out/index.html</link>
             <guid isPermaLink="false">ae7bf503-4199-47a7-a4c2-01931aae306b</guid>
-            <pubDate>Mon, 20 Jun 2016 11:09:25 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 11:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
