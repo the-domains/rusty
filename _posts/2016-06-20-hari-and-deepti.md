@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.blackbookgallery.com'
-  name: Blackbookgallery
-  favicon: 'http://www.blackbookgallery.com/wp-content/uploads/2014/09/favicon.ico'
-  domain: www.blackbookgallery.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.blackbookgallery.com/artists/hari-deepti/'
+inLanguage: en
 keywords:
   - paper
   - light-box
@@ -22,17 +20,20 @@ description: >-
   illustrator. He was born and raised in Mumbai, India where he was the senior
   designer for MTV Networks India and has designed for brands like MTV India,
   VH1 India, Nickelodeon and Comedy Central.
-inLanguage: en
+datePublished: '2016-06-20T14:19:12.736Z'
+dateModified: '2016-06-20T14:17:34.970Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.blackbookgallery.com/artists/hari-deepti/'
 title: Hari & Deepti
-datePublished: '2016-06-20T14:16:41.802Z'
-dateModified: '2016-06-20T14:15:34.608Z'
-starred: false
 sourcePath: _posts/2016-06-20-hari-and-deepti.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Blackbookgallery
+  domain: www.blackbookgallery.com
+  url: 'http://www.blackbookgallery.com'
+  favicon: 'http://www.blackbookgallery.com/wp-content/uploads/2014/09/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
