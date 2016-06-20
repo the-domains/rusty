@@ -20,8 +20,8 @@ description: >-
   illustrator. He was born and raised in Mumbai, India where he was the senior
   designer for MTV Networks India and has designed for brands like MTV India,
   VH1 India, Nickelodeon and Comedy Central.
-datePublished: '2016-06-20T14:19:12.736Z'
-dateModified: '2016-06-20T14:17:34.970Z'
+datePublished: '2016-06-20T14:20:57.512Z'
+dateModified: '2016-06-20T14:19:21.988Z'
 author: []
 related: []
 app_links: []
