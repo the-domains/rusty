@@ -4,12 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-20T13:07:32.057Z'
-dateModified: '2016-06-20T13:07:27.978Z'
+description: ME
+datePublished: '2016-06-20T13:09:46.524Z'
+dateModified: '2016-06-20T13:09:42.751Z'
 author: []
 sourcePath: _posts/2016-05-02-cheese-and-chilli-bread.md
-title: I'm rusty
+title: ''
 authors: []
 publisher: null
 starred: false
@@ -17,8 +17,4 @@ url: im-rusty/index.html
 _type: Article
 
 ---
-# I'm rusty
-
-I'm rusty
-
-I'm rusty
+ME
