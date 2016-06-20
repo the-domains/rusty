@@ -4,8 +4,15 @@
         <description><![CDATA[Rusty ]]></description>
         <link>https://thegrid.ai/rusty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 13:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 13:07:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rusty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm rusty]]></title>
+            <description><![CDATA[<h1>I'm rusty</h1>]]></description>
+            <link>https://thegrid.ai/rusty/im-rusty/index.html</link>
+            <guid isPermaLink="false">7f99f6bd-3bcc-4e56-980c-5b2eff4408e9</guid>
+            <pubDate>Mon, 20 Jun 2016 13:07:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside Out]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46f560ef-2093-4819-98c8-4684c7a3b0ab.jpg">]]></description>
