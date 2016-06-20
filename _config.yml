@@ -2,6 +2,7 @@ name: 'rusty '
 favicon: null
 layout_spectrum: 0.8428841247223318
 typography_spectrum: 0.2217134132515639
+title: 'Rusty '
 cta:
   domain: null
   bucket: null
