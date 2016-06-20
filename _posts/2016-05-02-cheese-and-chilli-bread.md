@@ -4,9 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ME
-datePublished: '2016-06-20T13:09:46.524Z'
-dateModified: '2016-06-20T13:09:42.751Z'
+description: >-
+  I've just finished a degree in physics and I'm using my newly discovered free
+  time to its full potential: cutting up paper!
+datePublished: '2016-06-20T13:30:06.660Z'
+dateModified: '2016-06-20T13:21:39.647Z'
 author: []
 sourcePath: _posts/2016-05-02-cheese-and-chilli-bread.md
 title: ''
@@ -17,4 +19,4 @@ url: im-rusty/index.html
 _type: Article
 
 ---
-ME
+I've just finished a degree in physics and I'm using my newly discovered free time to its full potential: cutting up paper!
