@@ -1,6 +1,6 @@
-name: 'rusty '
+name: 'Rusty '
 favicon: null
-layout_spectrum: 0.8428841247223318
+layout_spectrum: 1
 typography_spectrum: 0.2217134132515639
 title: 'Rusty '
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#f9bf21'
+    - '#10100f'
+    - '#e8ecfc'
+    - '#b0b3b0'
+    - '#5d5e59'
   brandStrength: 0.6668992175254971
-  lightness: 0.004324778215959668
-  saturation: 0.04130300972610712
-  rhythmicContrast: 0.46499735373072326
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
