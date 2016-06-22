@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-06-22T11:50:53.362Z'
+datePublished: '2016-06-22T12:02:13.037Z'
+sourcePath: _posts/2016-06-22-paper-dandy.md
 isBasedOnUrl: 'http://www.paperdandy.co.uk/work/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-22T11:50:49.186Z'
+dateModified: '2016-06-22T12:02:06.712Z'
 title: Paper Dandy
 app_links: []
 publisher:
@@ -16,7 +17,6 @@ description: >-
   Paper Dandy is one of my favourite papercutters. His horrorgami series really
   got me into the backlit papercutting stuff.
 starred: false
-sourcePath: _posts/2016-06-22-paper-dandy.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -24,4 +24,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14141d44-afec-4639-9408-0a5492dcf696.jpg)
+![Paper Dandy is one of my favourite papercutters. His horrorgami series really got me into the backlit papercutting stuff.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14141d44-afec-4639-9408-0a5492dcf696.jpg)
