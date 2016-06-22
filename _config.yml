@@ -1,8 +1,32 @@
-name: 'Rusty '
-favicon: null
-layout_spectrum: 0.07885305
 typography_spectrum: 0.47784
-title: 'Rusty '
+color:
+  brandColors:
+    - '#f9bf21'
+    - '#10100f'
+    - '#e8ecfc'
+    - '#b0b3b0'
+    - '#5d5e59'
+  brandStrength: 0.1875
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.07885305
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/21489e42-037a-4859-9d48-eec0d00f90dc.jpg
+name: 'Rusty '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +39,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#f9bf21'
-    - '#10100f'
-    - '#e8ecfc'
-    - '#b0b3b0'
-    - '#5d5e59'
-  brandStrength: 0.1875
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+title: 'Rusty '
 purpose: []
