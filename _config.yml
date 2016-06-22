@@ -20,14 +20,14 @@ analytics:
   facebook: null
   twitter: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/21489e42-037a-4859-9d48-eec0d00f90dc.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fce29cf-4563-4d2b-8f7f-26f933f43e75.png
 name: 'Rusty '
 cta:
   domain: null
   bucket: null
   version: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a31093c6-f464-42ab-8412-87c8a3cb2ca5.ico
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a061c9-3c30-4a40-8a57-8b952e78a3d0.ico
 collections:
   - index:
       path: /
