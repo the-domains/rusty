@@ -27,7 +27,7 @@ cta:
   bucket: null
   version: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02b3beb7-03e3-43b0-bdb7-5c09a926221a.ico
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a31093c6-f464-42ab-8412-87c8a3cb2ca5.ico
 collections:
   - index:
       path: /
