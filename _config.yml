@@ -1,33 +1,10 @@
-typography_spectrum: 0.5320157192181796
-color:
-  brandColors:
-    - '#f7bd38'
-    - '#1a1a18'
-    - '#e7e9fa'
-    - '#b2b8b4'
-    - '#5b5c57'
-  brandStrength: 0.21246153069660068
-  lightness: 0.6211118772625923
-  saturation: 0.6538732077460736
-  rhythmicContrast: 0.440291146049276
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6597451025154442
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fce29cf-4563-4d2b-8f7f-26f933f43e75.png
-name: Rustycuts
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Rusty
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a061c9-3c30-4a40-8a57-8b952e78a3d0.ico
+layout_spectrum: 0.88728
+typography_spectrum: 0.5320157192181796
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fce29cf-4563-4d2b-8f7f-26f933f43e75.png
 collections:
   - index:
       path: /
@@ -41,4 +18,27 @@ collections:
       format: rss
       number: 10
 title: 'Rusty '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f7bd38'
+    - '#1a1a18'
+    - '#e7e9fa'
+    - '#b2b8b4'
+    - '#5b5c57'
+  brandStrength: 0.21246153069660068
+  lightness: 0.6211118772625923
+  saturation: 0.6538732077460736
+  rhythmicContrast: 0.440291146049276
 purpose: []
