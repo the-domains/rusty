@@ -4,7 +4,7 @@
         <description><![CDATA[Rusty ]]></description>
         <link>https://thegrid.ai/rusty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 08:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 11:47:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rusty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside Out]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rusty/inside-out/index.html</link>
             <guid isPermaLink="false">ae7bf503-4199-47a7-a4c2-01931aae306b</guid>
             <pubDate>Mon, 20 Jun 2016 14:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paper Dandy]]></title>
+            <description><![CDATA[<article><h1>Paper Dandy</h1><p>The</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3a0f2b2-5f7d-4454-bfad-18dfe55b6708.jpg"></article>]]></description>
+            <link>http://www.paperdandy.co.uk/</link>
+            <guid isPermaLink="false">52de9d3f-f310-44c3-8d2b-d38311fbbde5</guid>
+            <pubDate>Wed, 22 Jun 2016 11:47:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hari & Deepti]]></title>
