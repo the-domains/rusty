@@ -1,17 +1,20 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: What a lovely day
-dateModified: '2016-06-28T14:27:42.341Z'
-datePublished: '2016-06-28T14:36:42.201Z'
+datePublished: '2016-06-28T15:36:49.288Z'
+dateModified: '2016-06-28T15:02:23.008Z'
 title: 'Mad Max: Fury Road'
 author: []
-starred: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cfa7a1-8f5a-4ecf-9c94-e512b853705f.jpg
 sourcePath: _posts/2016-06-28-mad-max-fury-road.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: mad-max-fury-road/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cfa7a1-8f5a-4ecf-9c94-e512b853705f.jpg)
