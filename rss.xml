@@ -4,7 +4,7 @@
         <description><![CDATA[Rusty ]]></description>
         <link>https://thegrid.ai/rusty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 12:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 14:36:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rusty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside Out]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rusty/inside-out/index.html</link>
             <guid isPermaLink="false">ae7bf503-4199-47a7-a4c2-01931aae306b</guid>
             <pubDate>Mon, 20 Jun 2016 14:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mad Max: Fury Road]]></title>
+            <description><![CDATA[<article><h1>Mad Max: Fury Road</h1><p>What a lovely day</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cfa7a1-8f5a-4ecf-9c94-e512b853705f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/04cfa7a1-8f5a-4ecf-9c94-e512b853705f.jpg</link>
+            <guid isPermaLink="false">a7ebefdd-fcd0-40f5-854f-6254367807c1</guid>
+            <pubDate>Tue, 28 Jun 2016 14:36:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paper Dandy]]></title>
